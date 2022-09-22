@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Nyariki",
+      "course": "ICT"
+    },
+    {
+      "id": 2,
+      "name": "Leslie",
+      "course": "ICT"
+    },
+    {
+      "id": 3,
+      "name": "Beth",
+      "course": "ICT"
+    },
+    {
+      "id": 4,
+      "name": "Anwar",
+      "course": "ICT"
+    },
+    {
+      "name": "Solomon",
+      "course": "CS",
+      "id": 5
+    },
+    {
+      "name": "George",
+      "course": "Hospitality",
+      "id": 6
+    },
+    {
+      "name": "Evans",
+      "course": "Diplomacy",
+      "id": 7
+    }
+  ]
+}
